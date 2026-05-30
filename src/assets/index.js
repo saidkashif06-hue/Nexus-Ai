@@ -21,8 +21,8 @@ import icon4 from "../assets/icon_4.png";
 import icon5 from "../assets/icon_5.png";
 import icon6 from "../assets/icon_6.png";
 import user_img from '../assets/user_img.png'
-import container_img from '../assets/container_img.png'
-import Trustedby_img from '../assets/Trustedby_img.png'
+
+
 import pic_1 from '../assets/pic_1.png'
 import pic_2 from '../assets/pic_2.png'
 import pic_3 from '../assets/pic_3.png'
