@@ -3,7 +3,7 @@ import { index } from '../assets'
 
 const Hero = () => {
   return (
-    <section id='hero' className='relative flex w-full h-120 sm:h-130 lg:h-160 '>
+    <section id='hero' className='relative flex w-full h-140 sm:h-130 lg:h-160 '>
         
 
       <div className='  sm:flex flex flex-col gap-3 sm:flex-col lg:gap-12 sm:gap-5 md:gap-7   sm:w-1/2 z-10  lg:py-25 sm:py-18   '>

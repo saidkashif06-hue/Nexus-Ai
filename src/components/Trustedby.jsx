@@ -32,7 +32,7 @@ const Testimonials = () => {
   return (
     <section
       id="testimonials"
-      className="py-16 w-full h-260 sm:h-295 md:h-150 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 flex flex-col items-center"
+      className="py-16 w-full h-285 sm:h-295 md:h-150 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 flex flex-col items-center"
     >
       {/* Heading */}
         <p className='font-space font-bold text-white md:text-[45px] text-[35px] lg:text-5xl text-center'>Trusted By Industry Leader</p>
